@@ -1,0 +1,6 @@
+framework module Pods_ToDoAppWithSQLite {
+  umbrella header "Pods-ToDoAppWithSQLite-umbrella.h"
+
+  export *
+  module * { export * }
+}
